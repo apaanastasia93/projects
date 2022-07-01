@@ -1,2 +1,6 @@
-### Projects
-In this repository you will find the main problems I worked on: classification, regression problems and time series.
+# Projects repository
+
+### Overall description
+The repository contains projects with different problems I worked on such as: Classification; Regression and Time Series. 
+
+### Projects:
